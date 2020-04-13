@@ -1,11 +1,12 @@
 {
     "files.associations": {
-        "ostream": "cpp",
-        "ios": "cpp",
-        "iostream": "cpp",
-        "stack": "cpp",
-        "string": "cpp",
-        "algorithm": "cpp",
-        "vector": "cpp"
+      "ostream": "cpp",
+      "ios": "cpp",
+      "iostream": "cpp",
+      "stack": "cpp",
+      "string": "cpp",
+      "algorithm": "cpp",
+      "vector": "cpp",
+      "utility": "cpp"
     }
 }
